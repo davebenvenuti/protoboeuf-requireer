@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/Shopify/protoboeuf.git
   revision: e599e209c1f3b27087df0fe8112e5fa88d831085
-  ref: main
+  ref: davebenvenuti/make-require-protoboeuf-work
   specs:
     protoboeuf (0.1.0)
       syntax_tree (~> 6.2)
