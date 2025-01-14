@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/Shopify/protoboeuf.git
-  revision: e599e209c1f3b27087df0fe8112e5fa88d831085
+  revision: 0ae70116c5bcb52ac09530ad1d6056786b9fef0c
   ref: davebenvenuti/make-require-protoboeuf-work
   specs:
     protoboeuf (0.1.0)
