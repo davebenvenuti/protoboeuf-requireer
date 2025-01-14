@@ -1,0 +1,24 @@
+GIT
+  remote: https://github.com/Shopify/protoboeuf.git
+  revision: e599e209c1f3b27087df0fe8112e5fa88d831085
+  ref: main
+  specs:
+    protoboeuf (0.1.0)
+      syntax_tree (~> 6.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    prettier_print (1.2.1)
+    syntax_tree (6.2.0)
+      prettier_print (>= 1.2.0)
+
+PLATFORMS
+  arm64-darwin-23
+  ruby
+
+DEPENDENCIES
+  protoboeuf!
+
+BUNDLED WITH
+   2.5.11
